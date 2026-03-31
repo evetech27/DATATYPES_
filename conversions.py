@@ -1,0 +1,10 @@
+x="192"
+type(x)
+int(x)
+x=int(x)
+type(x)
+x=float(x)
+print(x)
+x=complex(x)
+print(x)
+print(complex(2,6))

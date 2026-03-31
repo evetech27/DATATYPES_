@@ -1,0 +1,30 @@
+num=[1,2,3,4]
+print(num)
+letter=['a','b','c','d']
+print(letter)
+stg=["get","certified","get","ahead"]
+print(stg)
+mix= [1,6,"simplilearn","get","certified"]
+print(mix)
+mat=[[1,2],['a','b']]
+print(mat)
+print(mix)
+mix[3]
+mix[-2]
+mix[:3]
+mix[3:]
+mix[2:4]
+mix[::2]
+mix[::-1]
+z=[0]*100
+print(z)
+print(letter)
+print(stg)
+conc= letter + stg
+print(conc)
+var= list("hey there")
+print(var)
+print(num)
+one, *other= num
+print(one)
+print(other)

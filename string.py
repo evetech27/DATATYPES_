@@ -1,0 +1,2 @@
+stg="simplilearn"
+print(stg)
